@@ -1,2 +1,5 @@
 debian:bookworm-slim
 docker.io/library/debian:bookworm-slim
+gitea/gitea:1.22.0-rootless
+mysql:8.4.0
+nginx:1.27.0
