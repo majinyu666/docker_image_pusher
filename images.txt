@@ -1,8 +1,1 @@
-debian:bookworm-slim
-docker.io/library/debian:bookworm-slim
-gitea/gitea:1.22.0-rootless
-mysql:8.4.0
-nginx:1.27.0
-redis:7.2.5
-nextcloud:29.0.3-fpm
-wordpress:6.2.0-fpm
+jellyfin/jellyfin:10.9.7
