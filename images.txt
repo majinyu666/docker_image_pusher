@@ -1,1 +1,1 @@
-syncthing/syncthing:1.27.8
+python:3.12.4-slim-bookworm
