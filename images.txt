@@ -1,1 +1,1 @@
-ghcr.io/docker-mailserver/docker-mailserver:14.0.0
+newfuture/ddns:master
