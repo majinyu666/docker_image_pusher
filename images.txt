@@ -1,1 +1,1 @@
-newfuture/ddns:master
+docker.io/library/caddy:latest
